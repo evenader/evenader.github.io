@@ -1,6 +1,6 @@
 ---
 title: golang 中解析 tag 是怎么实现的？
-date: 2026-03-12 15:37:00
+date: 2025-12-12 15:37:00
 tags: [Golang]
 categories: 技术随笔
 ---
