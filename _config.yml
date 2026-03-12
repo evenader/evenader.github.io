@@ -102,17 +102,3 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-post:
-  comments:
-    enable: true    # 把这里改成 true
-    type: giscus    # 把这里填上 giscus
-giscus:
-  repo: 'evenader/evenader.github.io' # 替换为实际仓库名
-  repo-id: '刚才复制的 data-repo-id'     # 替换为实际 ID
-  category: 'Announcements'           # 替换为实际分类
-  category-id: 'R_kgDORk4-aw'  # 替换为实际分类 ID
-  theme-light: light
-  theme-dark: dark
-  mapping: pathname
-  # 其他保持默认即可
