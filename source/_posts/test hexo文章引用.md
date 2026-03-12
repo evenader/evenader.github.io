@@ -1,7 +1,7 @@
 ---
 title: 实现Raft共识算法
 date: 2026-03-12 15:30:00
-tags: [分布式理论]
+tags: [分布式理论,Golang]
 categories: 技术笔记
 ---
 **测试文章**
