@@ -1,3 +1,6 @@
+navbar:
+  blog_title: '共识边缘'   # 在单引号里写上你想要的名字
+  
 post:
   comments:
     enable: true
