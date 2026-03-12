@@ -1,5 +1,11 @@
 navbar:
   blog_title: '共识边缘'   # 在单引号里写上你想要的名字
+
+# ====== 主页打字机标语配置 ======
+index:
+  slogan:
+    enable: true
+    text: '技术世界的观察者与践行者'   # 把这里的文字替换成你想要的任何中文标语
   
 post:
   comments:
