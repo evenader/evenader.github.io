@@ -1,5 +1,5 @@
 ---
-title: Raft共识算法剖析：从核心机制到演进
+title: Raft共识算法剖析-从核心机制到演进
 date: 2026-03-12 14:19:00
 tags: [分布式理论]
 categories: 技术
